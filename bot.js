@@ -261,8 +261,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ Amalser ~______~*' +
-                                    '\n*🌀 Subcribe this channel other wise chance to get erorr: https://youtu.be/RlSG4ZgPls0*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ Amjad ser ~______~*' +
+                                    '\n*🌀 Subcribe this channel other wise chance to get erorr: ff malayalai brozzz*' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
                             }
